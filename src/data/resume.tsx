@@ -39,6 +39,7 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
+    email: "mailto:svivek030503@gmail.com",
     social: {
       GitHub: {
         name: "GitHub",
